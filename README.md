@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust & Kotlin
 - 💞️ I’m looking to collaborate on Mini Project
 - 📫 Reach me via my Email at vincentzq88@gmail.com
-- ⚡ Fun fact: I love chinese tea
+- ⚡ Fun fact: I love chinese traditional tea
 
 <!---
 indentd3q/indentd3q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
