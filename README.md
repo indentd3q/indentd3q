@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Rust & Kotlin
 - 💞️ I’m looking to collaborate on Mini Project
 - 📫 Reach me via my Email at @vincentzq88@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love chinese tea
 
 <!---
