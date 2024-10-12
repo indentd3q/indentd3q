@@ -1,4 +1,4 @@
-# Hi there, I'm [Vincent Kurniawan]! 👋
+# Hi there, I'm Vincent Kurniawan! 👋
 
 Welcome to my GitHub profile! I'm a Data Scientist/Student passionate about technology, coding, and creative digital solutions. 🚀
 
