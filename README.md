@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Data Scientist/Student passionate about tech
 ## 🚀 What I'm Working On
 
 - 🖥️ **Current Projects:**
-  - **[LAB_WEEK_06](https://github.com/your-profile/LAB_WEEK_06)**: Mobile App Programming using Kotlin (Android Studio).
+  - **[Lipsum](https://github.com/your-profile/Link)**: .
   - **GenAI Web Performance Testing**: Exploring the potential of new GenAI models for web development.
   - **Pancreatic Cancer Identification Methods**: Researching advanced techniques for identifying pancreatic cancer.
   
