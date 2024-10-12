@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Data Scientist/Student passionate about tech
 ## 🚀 What I'm Working On
 
 - 🖥️ **Current Projects:**
-  - **[Porto](https://github.com/indentd3q/Porto)**:Project web portofolio pribadi.
+  - **[Porto](https://github.com/indentd3q/Porto)** : Project web portofolio pribadi.
   - **GenAI Web Performance Testing**: Exploring the potential of new GenAI models for web development.
   - **Pancreatic Cancer Identification Methods**: Researching advanced techniques for identifying pancreatic cancer.
   
