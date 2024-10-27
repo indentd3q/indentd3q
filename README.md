@@ -33,17 +33,9 @@ I'm always open to discussions on tech, entrepreneurship, AI, and mobile app dev
 
 <!-- Add more badges for your key technologies -->
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 🤖 Fun Fact
 
-Did you know that I love **combining AI and mobile development**? I believe it's the future of personalized user experiences!
+Rust is GOATED
 
 ---
 
