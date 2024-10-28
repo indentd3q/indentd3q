@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a Data Scientist/Student passionate about tech
 - 🧪 **Learning/Exploring**:
   - **Rust Programming Language** 🧠
   - **R Programming Language** 🔬
-  - **Django & Flask** 🐜
   - **Python Programming Language** 💼
 
 ## 💡 Let's Connect & Collaborate
